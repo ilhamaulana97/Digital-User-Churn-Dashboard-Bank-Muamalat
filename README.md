@@ -60,7 +60,7 @@ master_sales.sql
 
 Google Looker Studio
 
-[Digital User Churn Dashboard](https://datastudio.google.com/reporting/6e9ec92b-61fd-49fa-b77f-e48ce2fa3098/page/tTP5F)
+[Digital User Churn Dashboard](https://datastudio.google.com/reporting/6e9ec92b-61fd-49fa-b77f-e48ce2fa3098)
 ---
 
 ## Author
