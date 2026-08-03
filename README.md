@@ -18,7 +18,7 @@ The dashboard was built using Google BigQuery and Looker Studio to analyze sales
 
 ## Dashboard Preview
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
@@ -42,7 +42,7 @@ The dashboard was built using Google BigQuery and Looker Studio to analyze sales
 The SQL query used to create the master table is available in:
 
 ```
-sql/master_sales.sql
+master_sales.sql
 ```
 
 ---
