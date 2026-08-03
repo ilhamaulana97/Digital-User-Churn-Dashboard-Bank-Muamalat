@@ -60,7 +60,7 @@ sql/master_sales.sql
 
 Google Looker Studio
 
-*(Add your Looker Studio link here if it is public.)*
+https://datastudio.google.com/s/pfQOlbdS9Os
 
 ---
 
